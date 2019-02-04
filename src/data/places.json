@@ -3,16 +3,18 @@
         {
         "name":"Maroush",
         "adress":"Adalbertstraße 93, 10999 Berlin",
-        "kind of food":"arabic, imbiss, fastfood, falafel",
-        "price range":"3€ - 12€",
-        "link":"none"
+        "kind_of_food":"arabic, imbiss, fastfood, falafel",
+        "price_range":"3€ - 12€",
+        "link":"",
+        "other_information": ""
         },
         {
         "name":"Kreuzburger",
         "adress":"Oranienstraße 190, 10999 Berlin",
-        "kind of food":"aburger",
-        "price range":"3€ - 12€",
-        "link":"http://kreuzburger.de"
+        "kind_of_food":"Hamburger",
+        "price_range":"3€ - 12€",
+        "link":"http://kreuzburger.de",
+        "other_information": ""
         }
     ]
 }

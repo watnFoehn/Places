@@ -7,7 +7,11 @@ const NewPlace = props => {
   return (
     <div>
       <form>
-        <input />
+        <p>new place</p>
+        <p>
+          name
+          <input />
+        </p>
       </form>
     </div>
   );
