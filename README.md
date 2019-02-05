@@ -10,7 +10,7 @@ It's meant to store restaurants, cafés and other places as recommendations with
 - filter/search
 - Google Maps
     - filter for nearest
-- switch for Akelius cities
+- switch for cities (Berlin, Stockholm...)
 - reviews/comments —> likes, ranking the places according to the likes
 - delete entries
 - Accounts
