@@ -6,8 +6,9 @@ import Card from "../Card/Card";
 import NewPlace from "../NewPlace/NewPlace";
 import places from "../data/places.json";
 
-// I think here has to go a .map on Card or places.json to map it into multiple cards
-// the multiple cards need to go into some sort of list
+const ListWrapper = styled.div`
+  display: flex;
+`;
 
 class List extends React.Component {
   getDetails() {
@@ -33,7 +34,7 @@ class List extends React.Component {
       <div>
         <button>Add</button>
         <NewPlace />
-        {details}
+        <ListWrapper>{details}</ListWrapper>
       </div>
     );
   }

@@ -3,11 +3,16 @@
 import React from "react";
 import styled from "styled-components";
 
+const Title = styled.div`
+  font-size: 200%;
+  text-align: center;
+`;
+
 const Header = props => {
   return (
-    <div>
+    <Title>
       <p>{props.appTitle}</p>
-    </div>
+    </Title>
   );
 };
 
