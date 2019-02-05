@@ -1,16 +1,21 @@
-#Places
+# Places
 This project is my React Playground.
 It's meant to store restaurants, cafés and other places as recommendations with colleagues.
 
-####further iterations
+#### further iterations
 
 - write tests
 - picture upload
 - introduce Redux
-- filter
+- filter/search
 - Google Maps
     - filter for nearest
 - switch for Akelius cities
-- reviews/comments
-- delete
+- reviews/comments —> likes, ranking the places according to the likes
+- delete entries
 - Accounts
+- prettier
+- styled components
+- flow
+- lint
+- adapt to Material UI
