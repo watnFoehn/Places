@@ -15,6 +15,30 @@
         "price_range":"3€ - 12€",
         "link":"http://kreuzburger.de",
         "other_information": ""
+        },
+        {
+        "name":"Café Mori",
+        "adress":"Wiener Straße 13, 10999 Berlin",
+        "kind_of_food":"brazilian, sandwiches",
+        "price_range":"3,50€ - 10€",
+        "link":"",
+        "other_information": "Closend on mondays. try the cheese-bread-balls! Make sure the waiter calculates correctly."
+        },
+        {
+        "name":"Companion",
+        "adress":"Oranienstraße 24, 10999 Berlin",
+        "kind_of_food":"Coffee, tea",
+        "price_range":"3€ - 12€",
+        "link":"http://www.companioncoffee.com/",
+        "other_information": ""
+        },
+        {
+        "name":"Hasir Burger",
+        "adress":"Adalbertstraße 93, 10999 Berlin",
+        "kind_of_food":"Hamburger",
+        "price_range":"3€ - 12€",
+        "link":"",
+        "other_information": "solid food, but not super good"
         }
     ]
 }
