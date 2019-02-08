@@ -8,6 +8,7 @@ import places from "../data/places.json";
 
 const ListWrapper = styled.div`
   display: flex;
+  flex-wrap: wrap;
 `;
 
 class List extends React.Component {
