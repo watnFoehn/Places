@@ -39,6 +39,14 @@
         "price_range":"3€ - 12€",
         "link":"",
         "other_information": "solid food, but not super good"
+        },
+        {
+        "name":"Fishplace around the corner",
+        "adress":"Kotti",
+        "kind_of_food":"Fish, Sandwiches",
+        "price_range":"3€ - 12€",
+        "link":"",
+        "other_information": ""
         }
         
     ]
