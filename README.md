@@ -1,3 +1,5 @@
+https://watnfoehn.github.io/Places/
+
 # Places
 This project is my React Playground.
 It's meant to store restaurants, cafés and other places as recommendations with colleagues.
